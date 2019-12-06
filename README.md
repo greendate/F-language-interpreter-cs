@@ -1,7 +1,7 @@
 # F-language-interpreter-cs
 Innopolis University, Fall Semester 2019, Final project in Compilers Constructions
 
-#Script to Run
+# Script to Run
 ```
 $ dotnet build -c Release
 ....

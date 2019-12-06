@@ -6,7 +6,7 @@ Innopolis University, Fall Semester 2019, Final project in Compilers Constructio
 $ dotnet build -c Release
 ....
 $ dotnet bin/Release/netcoreapp3.0/flanguage.dll
-> (+ 5 6)
+> (plus 5 6)
 11
 > (exit 0)
 $

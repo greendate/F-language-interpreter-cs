@@ -1,0 +1,9 @@
+C:\Users\korisnik\Desktop\flanguage-in-cs\flanguage-in-cs\bin\Debug\netcoreapp3.0\flanguage.exe
+C:\Users\korisnik\Desktop\flanguage-in-cs\flanguage-in-cs\bin\Debug\netcoreapp3.0\flanguage.deps.json
+C:\Users\korisnik\Desktop\flanguage-in-cs\flanguage-in-cs\bin\Debug\netcoreapp3.0\flanguage.runtimeconfig.json
+C:\Users\korisnik\Desktop\flanguage-in-cs\flanguage-in-cs\bin\Debug\netcoreapp3.0\flanguage.runtimeconfig.dev.json
+C:\Users\korisnik\Desktop\flanguage-in-cs\flanguage-in-cs\bin\Debug\netcoreapp3.0\flanguage.dll
+C:\Users\korisnik\Desktop\flanguage-in-cs\flanguage-in-cs\bin\Debug\netcoreapp3.0\flanguage.pdb
+C:\Users\korisnik\Desktop\flanguage-in-cs\flanguage-in-cs\obj\Debug\netcoreapp3.0\flanguage.csprojAssemblyReference.cache
+C:\Users\korisnik\Desktop\flanguage-in-cs\flanguage-in-cs\obj\Debug\netcoreapp3.0\flanguage.dll
+C:\Users\korisnik\Desktop\flanguage-in-cs\flanguage-in-cs\obj\Debug\netcoreapp3.0\flanguage.pdb

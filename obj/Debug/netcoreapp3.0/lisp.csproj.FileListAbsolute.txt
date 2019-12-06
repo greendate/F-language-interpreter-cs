@@ -1,0 +1,9 @@
+C:\Users\korisnik\Downloads\lisp-in-cs-master\lisp-in-cs-master\bin\Debug\netcoreapp3.0\lisp.exe
+C:\Users\korisnik\Downloads\lisp-in-cs-master\lisp-in-cs-master\bin\Debug\netcoreapp3.0\lisp.deps.json
+C:\Users\korisnik\Downloads\lisp-in-cs-master\lisp-in-cs-master\bin\Debug\netcoreapp3.0\lisp.runtimeconfig.json
+C:\Users\korisnik\Downloads\lisp-in-cs-master\lisp-in-cs-master\bin\Debug\netcoreapp3.0\lisp.runtimeconfig.dev.json
+C:\Users\korisnik\Downloads\lisp-in-cs-master\lisp-in-cs-master\bin\Debug\netcoreapp3.0\lisp.dll
+C:\Users\korisnik\Downloads\lisp-in-cs-master\lisp-in-cs-master\bin\Debug\netcoreapp3.0\lisp.pdb
+C:\Users\korisnik\Downloads\lisp-in-cs-master\lisp-in-cs-master\obj\Debug\netcoreapp3.0\lisp.csprojAssemblyReference.cache
+C:\Users\korisnik\Downloads\lisp-in-cs-master\lisp-in-cs-master\obj\Debug\netcoreapp3.0\lisp.dll
+C:\Users\korisnik\Downloads\lisp-in-cs-master\lisp-in-cs-master\obj\Debug\netcoreapp3.0\lisp.pdb
